@@ -6,7 +6,7 @@
 //                   https://github.com/Neumi
 //                   https://www.youtube.com/user/NeumiElektronik
 
-// All code is published unter MIT license.
+// All code is published under MIT license.
 
 // these pins may be different on different boards
 // pins tested with ESP8266 NodeMcu
